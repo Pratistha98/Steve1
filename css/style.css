@@ -36,7 +36,6 @@
   align-self: center;
 }
 
-
 #pad {
   font-size: 36px;
   color: #283d50;
@@ -256,11 +255,15 @@ body {
   
   #intro .intro-info h2 {
     color: #fff;
-    margin-bottom: 40px;
     font-size: 48px;
     font-weight: 700;
   }
-  
+  #intro .intro-info h3 {
+    color: #fff;
+    margin-bottom: 40px;
+    font-size: 30px;
+    font-weight: 700;
+  }
   #intro .intro-info h2 span {
     color: #976452;
     text-decoration: underline;
