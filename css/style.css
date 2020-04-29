@@ -696,7 +696,11 @@ body {
     margin-bottom: 15px;
     font-size: 18px;
   }
-  
+#Dogs{
+    margin-left: 40px;
+    font-weight: 700;
+    font-size: 30px;
+  }
   #services .title a {
     color: #111;
   }

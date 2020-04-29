@@ -123,11 +123,11 @@ document.getElementsByClassName(weekday[d.getDay()])[0].classList.add("todaysDay
       });
     });
   
-    // Testimonials carousel (uses the Owl Carousel library)
+   // Testimonials carousel (uses the Owl Carousel library)
     $(".testimonials-carousel").owlCarousel({
-      autoplay: true,
+      //autoplay: true,
       dots: true,
-      loop: true,
+      //loop: true,
       items: 1
     });
   
